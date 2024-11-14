@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+The developed system aims to guarantee the exchange of messages and files between healthcare professionals. The objective of this work is to present a real-time message and file exchange service for hospital environments, using encryption as a differential. This study is based on a bibliographic and technological methodology applied to cryptography. The results include the significant improvement of the security of web communications in hospitals, the facilitation of the usability of the system by users, along with the contribution to academic research in information security. Implementing open source tools demonstrates economic viability and efficiency, as well as promoting compliance with data protection regulations.
+
 ## Getting Started
 
 First, run the development server:
